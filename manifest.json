@@ -1,0 +1,12 @@
+{
+"name": "Installation XIAO ESP32-C6",
+"version": "1.0",
+"builds": [
+{
+"chipFamily": "ESP32-C6",
+"parts": [
+{ "path": "civvi_fruits-et-feuilles.ino.bin", "offset": 0 }
+]
+}
+]
+}
